@@ -1,0 +1,9 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 522F-BC09
+
+ Directory of E:\MyProject
+
+19-11-2024  18:17    <DIR>          .
+19-11-2024  18:17                 0 test.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  32,871,976,960 bytes free
